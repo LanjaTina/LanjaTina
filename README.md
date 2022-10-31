@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Landry</h1>
 
+<div align="center"> <img src="glitch.gif" width=400px height=200px> </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lanjatina&label=Profile%20views&color=0e75b6&style=flat" alt="lanjatina" /> </p>
 
 
